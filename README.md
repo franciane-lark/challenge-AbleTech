@@ -23,10 +23,16 @@
 <img src="./image/03.png" >
 <br><br>
 
-# 4. Andar 2:
 <img src="./image/04.png" >
 <br><br>
 
+# 4. Andar 2:
+<img src="./image/05.png" >
+<br><br>
+
+<img src="./image/06.png" >
+<br><br>
+
 # 5. Edifício Garagem:
-<img src="./image/04.png" >
+<img src="./image/00.png" >
 <br><br>
