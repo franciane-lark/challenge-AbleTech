@@ -10,9 +10,18 @@ let vagas_livres = 0;
 let total_andar;
 
 for (var j = 0; j < corredor3.length; j++){
+    if(corredor3[j] == 0){
+        total_vagas3 = total_vagas3 + 1;
+    }    
+}
+console.log("O total de vagas livres: " + total_vagas3);
+
+/*
+for (var j = 0; j < corredor3.length; j++){
         total_vagas3 = total_vagas3 + corredor3[j];  
 }
 console.log("O total de vagas ocupadas: " + total_vagas3);
+*/
 
 for (var j = 0; j < corredor4.length; j++){
     if(corredor4[j] == 0){
