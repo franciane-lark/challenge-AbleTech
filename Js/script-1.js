@@ -1,5 +1,5 @@
-const corredor1 = [1, 1, 0, 1, 0, 0];
-const corredor2=[1, 1, 1, 1, 1, 0];
+const corredor1 = [1, 1, 0, 1, 0, 0];//Vagas ocupadas 3
+const corredor2=[1, 1, 1, 1, 1, 0];//Vagas ocupadas 5
 const andar1 = [corredor1, corredor2];
 
 let total_vagas1 = 0;

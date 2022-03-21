@@ -1,5 +1,5 @@
-const corredor3 = [0, 0, 0, 1, 0, 0];
-const corredor4 = [0, 1, 0, 1, 1, 0];
+const corredor3 = [0, 0, 0, 1, 0, 0];//Vagas livres 5
+const corredor4 = [0, 1, 0, 1, 1, 0];//Vagas Livres 3
 const andar2 = [corredor3, corredor4];
 
 let total_vagas3 = 0;
@@ -21,7 +21,7 @@ for (var j = 0; j < corredor4.length; j++){
 }
 console.log("O total de vagas livres: " + total_vagas4);
 
-total_andar = 'corredor3';
+total_andar = 'corredor3';//Ou Corredor4
 
 switch(total_andar){
     case 'corredor3':

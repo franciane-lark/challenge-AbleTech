@@ -7,7 +7,7 @@
 - DADO UM ANDAR, RETORNAR O TOTAL DE VAGAS LIVRES
 - DADO UM EDIFÍCIO GARAGEM, RETORNAR O VALOR TOTAL ARRECADADO.
 
-- <i> Atenção >> Comando terminal: Digitar cd Js depois node .\script.js (a depender de cada nome do arquivo javascript utilizado)</i>
+- <i> >> Comando terminal: Digitar cd Js depois node .\script.js (a depender de cada nome do arquivo javascript utilizado)</i>
 
 # Respostas:
 
@@ -34,5 +34,5 @@
 <br><br>
 
 # 5. Edifício Garagem:
-<img src="./image/00.png" >
+<img src="./image/07.png" >
 <br><br>
